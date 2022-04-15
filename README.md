@@ -10,8 +10,8 @@
 ## Hey 👋, I'm Ethan!
 
 I'm an algorithm engineer from China, who is interested in Natural Language Processing, Deep Learning, Information Retrieval, and Full-stack Development.
-<!-- - 🔭 I’m currently working on  -->
-<!-- - 🖥 Algorithm engineer -->
+- 🖥 I’m currently working on [Yuanfudao](https://www.yuanfudao.com/)
+- 📝 [My blog](https://www.zhihu.com/column/c_1430850474367414272)
 <!-- - 📫 How to reach me **ethanyt at qq.com** -->
 
 
